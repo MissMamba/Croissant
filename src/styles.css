@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+  background-color: rgb(225, 224, 223);
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+  margin: 0;
+  font-size: 34px;
+  line-height: 48px;
+  color: #ec59d1b8;
+}
+
+a {
+  text-decoration: none;
+  color: #f39fe3b8;
+}
